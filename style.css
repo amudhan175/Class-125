@@ -1,0 +1,23 @@
+.Head{
+background-color: rgb(91,192,222);
+color: white;
+padding: 20px;
+border-radius: 15px;
+width: 97%;
+border-style: groove;
+border-color: brown;
+border-width: 10px;
+}
+.head_span{
+    background-color: rgb(91,192,222);
+    color: black;
+}
+.result_span{
+    color: white;
+    box-shadow: 20px black;
+}
+canvas{
+    border: 5px black;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+}
